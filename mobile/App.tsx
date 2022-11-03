@@ -1,6 +1,6 @@
 import { NativeBaseProvider, StatusBar } from 'native-base'
 
-import { Pools } from "./src/screens/Pools"
+import { Routes } from './src/routes'
 import { Loading } from "./src/components/Loading"
 import {
   useFonts,
@@ -27,7 +27,7 @@ export default function App() {
         backgroundColor="transparent"
         translucent
       />
-      {fontsLoaded ? <Pools /> : <Loading />}
+      {fontsLoaded ? <Routes /> : <Loading />}
       </AuthContextProvider>
     </NativeBaseProvider>
   )
