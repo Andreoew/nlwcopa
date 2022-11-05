@@ -18,7 +18,7 @@ export async function poolRoutes(fastify: FastifyInstance){
     const { title } = createPoolBody.parse(request.body)
 
     const generate = new ShortUniqueId({ length: 6 })
-    const code = String(generate()).toLocaleUpperCase()
+    const code = String(generate()).toUpperCase()
 
     
 

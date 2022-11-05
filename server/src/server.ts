@@ -20,7 +20,7 @@ async function bootstrap() {
 
   // em produção isso deve ser uma variavel ambient 
   await fastify.register(jwt, {
-    secret: 'nlwcopa',
+    secret: 'nlwcopa'
   })
 
   await fastify.register(authRoutes)
