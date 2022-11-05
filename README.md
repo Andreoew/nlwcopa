@@ -45,9 +45,9 @@ This project was developed with the following technologies:
 
 - [Rockeseat](https://www.rocketseat.com.br)
   * Observation
-    <p align="center">
       <span>When running the project on the web, be careful to turn off the host: '0.0.0.0' on the server.
       This feature is mobile only. See print:</span>
+    <p align="center">
       <img alt="server-web" src="./server-web.png" width="100%">
     </p>
 
