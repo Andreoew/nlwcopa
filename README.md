@@ -38,9 +38,8 @@ This project was developed with the following technologies:
 
 
 ## 🚀 Project
-
 <p>Author:<span> André de Souza</span></p>
-<p>Project carried out at NLW Rockeseat</p>
+<p>Project carried out at NLW [Rockeseat](https://www.rocketseat.com.br)</p>
 
 
 ## 🚀 Layout
