@@ -11,7 +11,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 # Backend
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
