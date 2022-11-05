@@ -54,6 +54,10 @@ This project was developed with the following technologies:
 ## 🚀 Layout
 
 <p align="center">
+  <img alt="web" src="./web.png" width="100%">
+</p>
+
+<p align="center">
   <img alt="nlwcopa" src="./mobile.png" width="100%">
 </p>
 
