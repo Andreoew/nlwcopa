@@ -44,7 +44,12 @@ This project was developed with the following technologies:
   <p>Project carried out at NLW</p>
 
 - [Rockeseat](https://www.rocketseat.com.br)
-
+  * Observation
+    <p align="center">
+      <span>When running the project on the web, be careful to turn off the host: '0.0.0.0' on the server.
+      This feature is mobile only. See print:</span>
+      <img alt="server-web" src="./server-web.png" width="100%">
+    </p>
 
 ## 🚀 Layout
 
@@ -52,11 +57,6 @@ This project was developed with the following technologies:
   <img alt="nlwcopa" src="./mobile.png" width="100%">
 </p>
 
-<p align="center">
-  <span>When running the project on the web, be careful to turn off the host: '0.0.0.0' on the server.
-  This feature is mobile only. See print:</span>
-  <img alt="server-web" src="./server-web.png" width="100%">
-</p>
 
 ## 🚀 License   
     
