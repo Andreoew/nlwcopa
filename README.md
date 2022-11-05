@@ -37,10 +37,10 @@ This project was developed with the following technologies:
 - [Day.js](https://day.js.org/)
 
 
-## 🚀 Project
-<p>Author:<span> André de Souza</span></p>
-<p>Project carried out at NLW [Rockeseat](https://www.rocketseat.com.br)</p>
-
+## 🚀 Project 
+    <p>Author:<span> André de Souza</span></p>
+    <p>Project carried out at NLW</p>
+- [Rockeseat](https://www.rocketseat.com.br)
 
 ## 🚀 Layout
 
