@@ -38,10 +38,13 @@ This project was developed with the following technologies:
 
 
 ## 🚀 Project 
+  <p>Project to create a pool based on the world cup games.
+  Play between friends.</p>
   <p>Author:<span> André de Souza</span></p>
   <p>Project carried out at NLW</p>
-  
+
 - [Rockeseat](https://www.rocketseat.com.br)
+
 
 ## 🚀 Layout
 
