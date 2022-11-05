@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
 
 
-<p>Author:<span>André de Souza</span></p>
+<p>Author:<span> André de Souza</span></p>
 
 
     
