@@ -50,7 +50,14 @@ This project was developed with the following technologies:
     <p align="center">
       <img alt="server-web" src="./server-web.png" width="100%">
     </p>
-
+  
+  * Installations
+    * In all applications:
+      npm i -> This command installs all dependencies
+    * In server and web:
+      npm run dev -> This command run aplication
+    * In mobile:
+      npx expo start -> This command run aplication mobile 
 ## 🚀 Layout
 
 <p align="center">
