@@ -36,19 +36,18 @@ This project was developed with the following technologies:
 - [phosphor-react-native](https://www.npmjs.com/package/phosphor-react-native)
 - [Day.js](https://day.js.org/)
 
-<p align="center">
-  <img alt="nlwcopa" src="./mobile.png" width="100%">
-</p>
-
 
 ## 🚀 Project
 
-
 <p>Author:<span> André de Souza</span></p>
+<p>Project carried out at NLW Rockeseat</p>
 
 
 ## 🚀 Layout
 
+<p align="center">
+  <img alt="nlwcopa" src="./mobile.png" width="100%">
+</p>
 
 
 ## 🚀 License   
